@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: bisque;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 60%;
+    margin-top: 5%;
+    gap: 1%;
+    margin-bottom: 5%;
+    padding-bottom: 5%;
+    
+}
+
+h2 {
+    font-size: 100%;
+    color: grey;
+}
